@@ -1,9 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(NZNAzFmKuoOQqUVHAcZE136YhXYOPlTao5VM9of8wgZ4-KpqscvyWCxV6PZGKINAXPmeluwNnFktog4izF9ROE-yhZiMFN4HgGRCyrew8NgrOz6guJ5v0p_EXDcl-R77)/dm/3/x5gv5rr/d/live-380.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-c.cf.dmcdn.net/sec2(2PyK0JLU8KiL93Qvz4pZ6nAr1KIOs4_IpQaLu3612OlUt7RYdB3ht1A3IubjTrhQQARGfqPuVGjInlXHM4_wTyIuAP4yuZu-0nuZmXZkMpl4m8jiOhRhgJypX4thjXO7)/dm/3/x5idx4k/d/live-380.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(NZNAzFmKuoOQqUVHAcZE136YhXYOPlTao5VM9of8wgZ4-KpqscvyWCxV6PZGKINAXPmeluwNnFktog4izF9ROE-yhZiMFN4HgGRCyrew8NgrOz6guJ5v0p_EXDcl-R77)/dm/3/x5gv5rr/d/live-240.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(2PyK0JLU8KiL93Qvz4pZ6nAr1KIOs4_IpQaLu3612OlUt7RYdB3ht1A3IubjTrhQQARGfqPuVGjInlXHM4_wTyIuAP4yuZu-0nuZmXZkMpl4m8jiOhRhgJypX4thjXO7)/dm/3/x5idx4k/d/live-240.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8
