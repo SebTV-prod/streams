@@ -1,4 +1,4 @@
-name: RamdamTV
+name: ramdammusique
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py ramdammusique > ../../ressources/twitch/hls/RamdamTV.m3u8
+          python3 kick.py ramdammusique > ../../ressources/kick/hls/ramdammusique.m3u8
         
       - name: adding everything
         run: |
@@ -34,5 +34,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "RamdamTV updated"
+          git commit -m "ramdammusique updated"
           git push
