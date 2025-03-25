@@ -1,4 +1,4 @@
-name: TL7 Loire
+name: TL7
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py tl7loire > ../../ressources/twitch/hls/TL7.m3u8
+          python3 twitch.py tl7direct > ../../ressources/twitch/hls/TL7.m3u8
         
       - name: adding everything
         run: |
@@ -35,5 +35,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "TL7 Loire updated"
+          git commit -m "TL7 updated"
           git push
