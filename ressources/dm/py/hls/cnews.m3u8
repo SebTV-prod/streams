@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(4e5ePGjk2SdUf0aN2SoQ7aOBSSEHouaXiM675ag6-xBbs20J93WkOgel4e9BYWdOvrVFglmLXnMXkRSpJ_XLt-SMVFgKSLMm48fUkDBtKeCiOjuP3IwiXddlGaH2H8Eg)/dm/3/x3b68jn/d/live-380.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(93gCjxbXBdNjKcZ5dNPUM2dZbjwk3JjrY2RLE2zRSiQZz2KMPJJMwZC9AssR56pkrw_EXlmPC6ps67hMSua_Pm58F44NR5BaBjDXO1wwDy9zYVnvhY08UUAnbw5jVKrE)/dm/3/x3b68jn/d/live-380.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(4e5ePGjk2SdUf0aN2SoQ7aOBSSEHouaXiM675ag6-xBbs20J93WkOgel4e9BYWdOvrVFglmLXnMXkRSpJ_XLt-SMVFgKSLMm48fUkDBtKeCiOjuP3IwiXddlGaH2H8Eg)/dm/3/x3b68jn/d/live-240.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(93gCjxbXBdNjKcZ5dNPUM2dZbjwk3JjrY2RLE2zRSiQZz2KMPJJMwZC9AssR56pkrw_EXlmPC6ps67hMSua_Pm58F44NR5BaBjDXO1wwDy9zYVnvhY08UUAnbw5jVKrE)/dm/3/x3b68jn/d/live-240.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(3zxrBtjdfLD0_m8E_Lkt9Yj3SRh_lkcLX5pVFQ6uiaTfCWmI7ZM3nFf5Xw2doYtf6wV9k9yBhg5IS6SozoIzzQKjdoPe-Im-Tvha6SQa9lNI1MpvkUbLAe8uaeX0dHUZ)/dm/3/x5idxxp/s/live-240.m3u8
+https://live-c.cf.dmcdn.net/sec2(7aMsMdTRwRKhPmNsgym-62K9VpbW32PH7N5gDKkZ_8BAFepI1gQ1soWw3W2AJSEKObhoC8os_zi1Ls3yFbUJn1JzFSUvKb14j891c-FcgdivVIdhR-1Gu-KvmspffYEO)/dm/3/x5idxxp/s/live-240.m3u8
