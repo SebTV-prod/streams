@@ -30,6 +30,23 @@
 | 8 | [Tech Radio](https://techradio.fr/) | ☑️ | | |  
 | 9 | [Yellow Radio](https://yellow.radio/) | ☑️ | | | 
 
+<h2> Canal 6B - 🇮🇩 MCR 3 <h2>
+  
+| LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |	[]() | ☑️ | | | |
+| 2 | []() | ☑️ | | |
+| 3 |	 | ☑️ | | |
+| 4 |	 | ☑️ | | |
+| 5 |  | ☑️ | | |
+| 6 |	 | ☑️ | | |
+| 7 |  | ☑️ | | |
+| 8 |	 | ☑️ | | |
+| 9 |	 | ☑️ | | |
+| 10 |  | ☑️ | | |
+| 11 | []() | ☑️ | | |
+| 12 | []() | ☑️ | | |
+
 <h2> Canal 6C:  🇮🇩 MCR 4 <h2>
   
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
