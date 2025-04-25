@@ -26,7 +26,7 @@
 | 4 | [My Zen Radio](https://www.myzen.tv/fr/radio/) | ☑️ | | | 
 | 5 | [Netradio](https://netradio.fr/) | ☑️ | | | 
 | 6 | [Radio Orient](https://www.radioorient.com/) | ☑️ | | | 
-| 7 | [Sud Radio](https://www.sudradio.fr/) | ☑️ |[Dailymotion](https://www.dailymotion.com/video/x8jqxru) | | 
+| 7 | [Sud Radio](https://www.sudradio.fr/) | ☑️ |[☑️](https://www.dailymotion.com/video/x8jqxru) | | 
 | 8 | [Tech Radio](https://techradio.fr/) | ☑️ | | |  
 | 9 | [Yellow Radio](https://yellow.radio/) | ☑️ | | | 
 
