@@ -3,9 +3,9 @@
   
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |	[]() | ☑️ | | | |
-| 2 | []() | ☑️ | | |
-| 3 |	 | ☑️ | | |
+| 1 |	[Ado](https://www.ado.fr/) | ☑️ | | | |
+| 2 | [Chante France](https://www.chantefrance.com/) | ☑️ | | |
+| 3 | [Ici Provence](https://www.francebleu.fr/radio/provence) | ☑️ | [☑️](https://www.francebleu.fr/tv/direct/provence-alpes) | |
 | 4 |	 | ☑️ | | |
 | 5 |  | ☑️ | | |
 | 6 |	 | ☑️ | | |
