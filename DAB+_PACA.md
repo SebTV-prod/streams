@@ -4,14 +4,14 @@
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Flashback](https://radioflashback.net/)  | ☑️ | ❎ | | |
-| 2 | [Fréquence Mistral](https://www.frequencemistral.com/A-la-rencontre-de-Guy-Gilbert_a8636.html) | ☑️ | | | |
-| 3 | Hope Radio | ☑️ | | | |
-| 4 | My Zen Radio | ☑️ | | | 
-| 5 | Netradio | ☑️ | | | 
-| 6 | Radio Orient | ☑️ | | | 
-| 7 | Sud Radio | ☑️ | | | 
-| 8 | Tech Radio | ☑️ | | |  
-| 9 | Yellow Radio | ☑️ | | | 
+| 2 | [Fréquence Mistral](https://www.frequencemistral.com) | ☑️ | | | |
+| 3 | [Hope Radio](https://www.hoperadio.live/) | ☑️ | | | |
+| 4 | [My Zen Radio](https://www.myzen.tv/fr/radio/) | ☑️ | | | 
+| 5 | [Netradio](https://netradio.fr/) | ☑️ | | | 
+| 6 | [Radio Orient](https://www.radioorient.com/) | ☑️ | | | 
+| 7 | [Sud Radio](https://www.sudradio.fr/) | ☑️ |[Dailymotion](https://www.dailymotion.com/video/x8jqxru) | | 
+| 8 | [Tech Radio](https://techradio.fr/) | ☑️ | | |  
+| 9 | [Yellow Radio](https://yellow.radio/) | ☑️ | | | 
 
 <h2> Canal 6C:  🇮🇩 MCR 4 <h2>
   
