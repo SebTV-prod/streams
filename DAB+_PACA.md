@@ -1,4 +1,21 @@
 <h1> Liste des canaux et chaînes DAB+ <h1>
+<h2> Canal 8A - 🇮🇩 MCR 1 <h2>
+  
+| LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 |	[Radio 105](https://www.105.net/) | ☑️ | | | |
+| 2 | [Crooner Radio](https://www.croonerradio.fr/) | ☑️ | | |
+| 3 |	 | ☑️ | | |
+| 4 |	 | ☑️ | | |
+| 5 |  | ☑️ | | |
+| 6 |	 | ☑️ | | |
+| 7 |  | ☑️ | | |
+| 8 |	 | ☑️ | | |
+| 9 |	 | ☑️ | | |
+| 10 |  | ☑️ | | |
+| 11 | [RMC](https://www.radiomontecarlo.net) | ☑️ | | |
+| 12 | [RMC 2](https://www.rmc2.net/) | ☑️ | | |
+
 <h2> Canal 12B :  🇮🇩 MCR 2 <h2>
   
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
@@ -29,5 +46,7 @@
 | 10 |	Radio Fantasy | ☑️ | | |
 | 11 | Radio Top Side | ☑️ | | |
 | 12 |	Radio Salve Regina | ☑️ | | |
+
+
 
 
