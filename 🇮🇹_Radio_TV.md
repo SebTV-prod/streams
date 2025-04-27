@@ -8,8 +8,9 @@
 |69|[Radio Deejay](http://www.deejay.it/)||||
 |70|[Radio Italia](http://www.radioitalia.it/)||||
 |73|[Radio Bruno]||||
-|77|[Radio 104](https://www.radio104.it/)||||
-|158|[Radio Kiss Kiss](http://www.kisskiss.it/)||||
+|76|[Radio Kiss Kiss Napoli]()|<img width="40" src="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png.webp"/>|[Kiss Kiss Napoli TV](https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss Napoli](https://kisskiss.fluidstream.eu/KKNapoli.aac)|
+|77|[Radio 104](https://www.radio104.it/)|<img width="40" src=""/>|[ ]( )|[Radio Kiss Kiss Italia]()|
+|158|[Radio Kiss Kiss](http://www.kisskiss.it/)|<img width="40" src="https://kisskiss.it/wp-content/uploads/2021/02/logo_kisskiss.png.webp"/>|[Kiss Kiss TV](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss](https://kisskiss.fluidstream.eu/KissKiss.aac)|[Kiss Kiss Italia TV](https://kk.fluid.stream/KKTV01/livestream/playlist.m3u8?FLID=1)|[Radio Kiss Kiss Italia](https://kisskiss.fluidstream.eu/KKItalia.aac)|
 |202|[Rai Radio 2](http://www.radio2.rai.it/)|||[RaiPlaySound](https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiodue1/hls/playlist_mo.m3u8)|
 |222|[Radio Roma](https://www.radioroma.it/)||||
 |232|[Radio Studio Più]||||
