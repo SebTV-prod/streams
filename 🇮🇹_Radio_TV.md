@@ -24,6 +24,7 @@
 |730|[Radio Norba]||||
 |772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)|<img width="40" src="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg?v=1722512145918"/>|[Radio Monte-Carlo TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)|[Radio Monte-Carlo](https://icy.unitedradio.it/RMC.aac)|
 |786|[Virgin Radio](http://www.virginradioitaly.it/)|<img width="40" src=" "/>|[Virgin Radio TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd)||
+|789|[Radio Maria]()|<img width="40" src=""/>|[Radio Maria](https://cdn.jwplayer.com/live/events/NxD9E9d7.m3u8)|
 |799|[RTR 99](https://www.rtr99.it/)|<img width="40" src="https://www.rtr99.it/wp-content/uploads/elementor/thumbs/trasparente-r3izclaguxen3uqryqnp592kiu5p28qxf7rnbczf9c.png"/>|[RTR 99 TV](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w1247526100.m3u8)|[RTR 99 - Ti Ricordi](https://rtr99.fluidstream.eu/rtr99.mp3)|
 |899|[Radio Serie A by RDS]()|<img width="40" src="https://img.legaseriea.it/vimages/64dc9bd1/Serie-A-Radio-TV_Logo.png?webp&q=100&size=1996.5x-"/>|[Radio TV Serie A by RDS](https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8)||
 
