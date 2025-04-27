@@ -6,10 +6,10 @@
 |66|[Radio 105](http://www.105.net/)|<img width="40" src="https://www.105.net/images/logos/3/logo_colored.jpg?v=1722512149810"/>|[105 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd)|[Radio 105](https://icy.unitedradio.it/Radio105.aac)|
 |67|[R101](http://www.r101.it/)|<img width="40" src="https://www.r101.it/images/logos/7/logo_black.jpg?v=1722512155622"/>|[R101 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd)|[R101](https://icecast.unitedradio.it/r101)|
 |69|[Radio Deejay](http://www.deejay.it/)||||
-|70|[Radio Italia](http://www.radioitalia.it/)||||
-|73|[Radio Bruno]||||
+|70|[Radio Italia](http://www.radioitalia.it/)|<img width="40" src="https://www.radioitalia.it/images/player_radioitalia.jpg"/>|[Radio Italia TV](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream01/streamPlaylist.m3u8)|[Radio Italia](https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8)|
+|73|[Radio Bruno]|<img width="40" src=""/>|[ ]( )|[]()|
 |76|[Radio Kiss Kiss Napoli]()|<img width="40" src="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png.webp"/>|[Kiss Kiss Napoli TV](https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss Napoli](https://kisskiss.fluidstream.eu/KKNapoli.aac)|
-|77|[Radio 104](https://www.radio104.it/)|<img width="40" src=""/>|[ ]( )|[Radio Kiss Kiss Italia]()|
+|77|[Radio 104](https://www.radio104.it/)|<img width="40" src=""/>|[ ]( )|[]()|
 |158|[Radio Kiss Kiss](http://www.kisskiss.it/)|<img width="40" src="https://kisskiss.it/wp-content/uploads/2021/02/logo_kisskiss.png.webp"/>|[Kiss Kiss TV](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss](https://kisskiss.fluidstream.eu/KissKiss.aac)|[Kiss Kiss Italia TV](https://kk.fluid.stream/KKTV01/livestream/playlist.m3u8?FLID=1)|[Radio Kiss Kiss Italia](https://kisskiss.fluidstream.eu/KKItalia.aac)|
 |202|[Rai Radio 2](http://www.radio2.rai.it/)|||[RaiPlaySound](https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiodue1/hls/playlist_mo.m3u8)|
 |222|[Radio Roma](https://www.radioroma.it/)||||
@@ -25,16 +25,17 @@
 |713|[Radio Capital](https://www.capital.it/)|<img width="40" src="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/330px-Radio_Capital_logo_%282020%29.svg.png"/>|[Capital Tivù](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8)|[Radio Capital](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8)|
 |715|[Radio M2O](http://www.m2o.it/)|<img width="40" src="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-32x32.jpg"/>|[M2O TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8)|[Radio M2O](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8)|[M20 Dance](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8)|[One Two, One Two](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8)|[Deejay Time](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8)|
 |730|[Radio Norba]||||
-|772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)|<img width="40" src=" "/>|[Radio Monte-Carlo TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)||
+|772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)|<img width="40" src="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg?v=1722512145918"/>|[Radio Monte-Carlo TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)|[Radio Monte-Carlo](https://icy.unitedradio.it/RMC.aac)|
 |786|[Virgin Radio](http://www.virginradioitaly.it/)|<img width="40" src=" "/>|[Virgin Radio TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd)||
-|799|[RTR 99](https://www.rtr99.it/)||||
+|799|[RTR 99](https://www.rtr99.it/)|<img width="40" src="https://www.rtr99.it/wp-content/uploads/elementor/thumbs/trasparente-r3izclaguxen3uqryqnp592kiu5p28qxf7rnbczf9c.png"/>|[RTR 99 TV](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w1247526100.m3u8)|[RTR 99 - Ti Ricordi](https://rtr99.fluidstream.eu/rtr99.mp3)|
 |872|[FM Radio]||||
-|899|[Radio Serie A by RDS]||||
+|899|[Radio Serie A by RDS]()|<img width="40" src="https://img.legaseriea.it/vimages/64dc9bd1/Serie-A-Radio-TV_Logo.png?webp&q=100&size=1996.5x-"/>|[Radio TV Serie A by RDS](https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8)||
 
 <h1>Canali con diffusione in Satellite</h1>
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
+|627|[Radio Italia Anni 60](https://www.radioitaliaanni60.it/#)||||
 |631|[Radio Number 1](http://www.radionumberone.it/)||||
 |636|[Radio 51]||||
 
