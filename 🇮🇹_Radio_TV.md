@@ -10,7 +10,7 @@
 |73|[Radio Bruno]||||
 |77|[Radio 104](https://www.radio104.it/)||||
 |158|[Radio Kiss Kiss](http://www.kisskiss.it/)||||
-|202|[Rai Radio 2](http://www.radio2.rai.it/)||||
+|202|[Rai Radio 2](http://www.radio2.rai.it/)|||[RaiPlaySound](https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiodue1/hls/playlist_mo.m3u8)|
 |222|[Radio Roma](https://www.radioroma.it/)||||
 |232|[Radio Studio Più]||||
 |246|[Radio 24](http://www.radio24.it/)||||
