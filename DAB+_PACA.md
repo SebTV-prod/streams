@@ -4,18 +4,18 @@
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 |	[Air Zen Radio]( ) | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/airzen.png"/> | |
-| 2 | [Chérie FM]() | ☑️ | | (https://www.radioscope.fr/lien/rnt/logos/cheriefm.png)| |
-| 3 | [Fun Radio]() | ☑️ | [☑️](https://www.dailymotion.com/video/xxtuy6) | (https://www.radioscope.fr/lien/rnt/logos/fun.png) | |
-| 4 |	[Latina]() | ☑️ |  | (https://www.radioscope.fr/lien/rnt/logos/latina.png) | |
-| 5 | [M Radio]() | ☑️ |  | (https://www.radioscope.fr/lien/rnt/logos/mradio.png) | |
-| 6 |	[Nostalgie]() | ☑️ |  | (https://www.radioscope.fr/lien/rnt/logos/nostalgie.png) | |
-| 7 | [NRJ]() | ☑️ |  | (https://www.radioscope.fr/lien/rnt/logos/nrj.png) | |
-| 8 |	[Radio Classique]() | ☑️ | | (https://www.radioscope.fr/lien/rnt/logos/radioclassique.png) | |
-| 9 |	[Rire et Chansons]() | ☑️ | | (https://www.radioscope.fr/lien/rnt/logos/rire.png) | |
-| 10 | [RTL]() | ☑️ |[☑️](https://www.dailymotion.com/video/xl1km0)| (https://www.radioscope.fr/lien/rnt/logos/rtl.png) | |
-| 11 | [RTL 2]() | ☑️ | [☑️](https://www.dailymotion.com/video/x2tzzpj) | (https://www.radioscope.fr/lien/rnt/logos/rtl2.png) | |
-| 12 | [Skyrock]() | ☑️ | | (https://www.radioscope.fr/lien/rnt/logos/skyrock.png) | |
-| 13 | [Skyrock Klassiks]() | ☑️ | | (https://www.radioscope.fr/lien/rnt/logos/skyrockklassiks.png) | |
+| 2 | [Chérie FM]() | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/cheriefm.png/> | |
+| 3 | [Fun Radio]() | ☑️ | [☑️](https://www.dailymotion.com/video/xxtuy6) | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/fun.png/> | |
+| 4 |	[Latina]() | ☑️ |  | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/latina.png/> | |
+| 5 | [M Radio]() | ☑️ |  | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/mradio.png/> | |
+| 6 |	[Nostalgie]() | ☑️ |  | vhttps://www.radioscope.fr/lien/rnt/logos/nostalgie.png/> | |
+| 7 | [NRJ]() | ☑️ |  | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/nrj.png/> | |
+| 8 |	[Radio Classique]() | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/radioclassique.png/> | |
+| 9 |	[Rire et Chansons]() | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/rire.png/> | |
+| 10 | [RTL]() | ☑️ |[☑️](https://www.dailymotion.com/video/xl1km0)| <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/rtl.png/> | |
+| 11 | [RTL 2]() | ☑️ | [☑️](https://www.dailymotion.com/video/x2tzzpj) | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/rtl2.png/> | |
+| 12 | [Skyrock]() | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/skyrock.png/> | |
+| 13 | [Skyrock Klassiks]() | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/skyrockklassiks.png/> | |
 
 <h2> Canal 9C - 🇫🇷 - Métropolitain 2 <h2>
   
