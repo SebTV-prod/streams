@@ -1,4 +1,4 @@
-<h1>Canali con diffusione in DTT</h1>
+<h1>DVB-T</h1>
 
 |LCN|Servizio|Logo|URL #1|URL #2|URL #3|URL #4|URL #5|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
