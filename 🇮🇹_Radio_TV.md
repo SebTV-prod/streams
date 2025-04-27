@@ -3,7 +3,7 @@
 |LCN|Servizio|Logo|URL #1|URL #2|URL #3|URL #4|URL #5|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |36|[RTL 102.5](http://www.rtl.it/)|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/1.svg"/>|[RTL 102.5 TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8)|[RTL 102.5](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8)|
-|66|[Radio 105](http://www.105.net/)||||
+|66|[Radio 105](http://www.105.net/)|<img width="40" src="https://www.105.net/images/logos/3/logo_colored.jpg?v=1722512149810"/>|[105 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)|[Radio 105](https://icy.unitedradio.it/Radio105.aac)|
 |67|[R101](http://www.r101.it/)||||
 |69|[Radio Deejay](http://www.deejay.it/)||||
 |70|[Radio Italia](http://www.radioitalia.it/)||||
@@ -21,7 +21,7 @@
 |266|[Radio Zeta](http://www.radiozeta.it/)|<img width="40" src="https://cloud.radiozeta.it/assets/www.radiozeta.it/1.1.61/img/layout/radio-zeta-logo.png"/>|[Radio Zeta TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8)|[Radio Zeta](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist.m3u8)|
 |351|[70-80.it]||||
 |660|[Ibiza Radio]||||
-|713|[Radio Capital]|<img width="40" src="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/330px-Radio_Capital_logo_%282020%29.svg.png"/>|[Capital Tivù](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8)|[Radio Capital](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8)|
+|713|[Radio Capital](https://www.capital.it/)|<img width="40" src="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/330px-Radio_Capital_logo_%282020%29.svg.png"/>|[Capital Tivù](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8)|[Radio Capital](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8)|
 |715|[Radio M2O](http://www.m2o.it/)|<img width="40" src="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-32x32.jpg"/>|[M2O TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8)|[Radio M2O](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8)|[M20 Dance](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8)|[One Two, One Two](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8)|[Deejay Time](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8)|
 |730|[Radio Norba]||||
 |772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)||||
@@ -41,4 +41,4 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
-|4310|[Giornale Radio TV](https://giornaleradio.fm/)|<img width="40" src="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png"/>|[GRTV]( https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1) - [GRSportTV](https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1)||
+|4310|[Giornale Radio TV](https://giornaleradio.fm/)|<img width="40" src="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png"/>|[GRTV]( https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1)|[GRSportTV](https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8?FLID=1)|
