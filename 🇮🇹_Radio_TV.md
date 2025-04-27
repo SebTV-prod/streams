@@ -15,9 +15,9 @@
 |232|[Radio Studio Più]||||
 |246|[Radio 24](http://www.radio24.it/)||||
 |253|[Radio Radio]||||
-|258|[Radiofreccia](http://www.radiofreccia.it/)||||
+|258|[Radiofreccia](http://www.radiofreccia.it/)|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/17.svg"/>|[Radio Freccia TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8)|[Radio Freccia](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist.m3u8)|
 |265|[RDS Social TV](http://www.rds.it/)||||
-|266|[Radio Zeta](http://www.radiozeta.it/)||||
+|266|[Radio Zeta](http://www.radiozeta.it/)|<img width="40" src="https://cloud.radiozeta.it/assets/www.radiozeta.it/1.1.61/img/layout/radio-zeta-logo.png"/>|[Radio Zeta TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8)|[Radio Zeta](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist.m3u8)|
 |351|[70-80.it]||||
 |660|[Ibiza Radio]||||
 |713|[Radio Capital]||||
