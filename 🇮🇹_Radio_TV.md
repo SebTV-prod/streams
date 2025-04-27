@@ -4,7 +4,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |36|[RTL 102.5](http://www.rtl.it/)|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/1.svg"/>|[RTL 102.5 TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8)|[RTL 102.5](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8)|
 |66|[Radio 105](http://www.105.net/)|<img width="40" src="https://www.105.net/images/logos/3/logo_colored.jpg?v=1722512149810"/>|[105 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd)|[Radio 105](https://icy.unitedradio.it/Radio105.aac)|
-|67|[R101](http://www.r101.it/)||||
+|67|[R101](http://www.r101.it/)|<img width="40" src="https://www.r101.it/images/logos/7/logo_black.jpg?v=1722512155622"/>|[R101 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd)|[R101](https://icecast.unitedradio.it/r101)|
 |69|[Radio Deejay](http://www.deejay.it/)||||
 |70|[Radio Italia](http://www.radioitalia.it/)||||
 |73|[Radio Bruno]||||
@@ -24,8 +24,8 @@
 |713|[Radio Capital](https://www.capital.it/)|<img width="40" src="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/330px-Radio_Capital_logo_%282020%29.svg.png"/>|[Capital Tivù](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8)|[Radio Capital](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8)|
 |715|[Radio M2O](http://www.m2o.it/)|<img width="40" src="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-32x32.jpg"/>|[M2O TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8)|[Radio M2O](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8)|[M20 Dance](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8)|[One Two, One Two](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8)|[Deejay Time](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8)|
 |730|[Radio Norba]||||
-|772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)||||
-|786|[Virgin Radio](http://www.virginradioitaly.it/)||||
+|772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)|<img width="40" src=" "/>|[Radio Monte-Carlo TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)||
+|786|[Virgin Radio](http://www.virginradioitaly.it/)|<img width="40" src=" "/>|[Virgin Radio TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd)||
 |799|[RTR 99](https://www.rtr99.it/)||||
 |872|[FM Radio]||||
 |899|[Radio Serie A by RDS]||||
