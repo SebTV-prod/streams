@@ -60,7 +60,7 @@
 |627|[Radio Italia Anni 60](https://www.radioitaliaanni60.it/#)|<img width="40" src="https://www.radioitaliaannisessanta.it/#](https://www.tvdream.net/img/radio-italia-anni-60-tv.png"/>|[Radio Italia Anni 60 TV]([ ](https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/chunklist_w714538055.m3u8))||
 |631|[Radio Number 1](http://www.radionumberone.it/)|<img width="40" src="https://radionumberone.it/wp-content/uploads/2021/04/2021_RN1-Logo_Tavola-disegno-1.svg"/>|[RN1TV](https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8)|[Radio Number One]()|
 
-<h1>Canali con diffusione in FAST Servizi Providers (Smart TV)</h1>
+<h1>DVB-I</h1>
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
