@@ -31,9 +31,13 @@
 
 <h1>Canali con diffusione in Satellite</h1>
 
+|LCN|Servizio|Logo|Video_URL|Audio_URL|
+|:-:|:-:|:-:|:-:|:-:|
 |631|[Radio Number 1](http://www.radionumberone.it/)||||
 |636|[Radio 51]||||
 
 <h1>Canali con diffusione in FAST Servizi Providers (Smart TV)</h1>
 
+|LCN|Servizio|Logo|Video_URL|Audio_URL|
+|:-:|:-:|:-:|:-:|:-:|
 |4310|[Giornale Radio TV](https://giornaleradio.fm/)|<img width="40" src="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png"/>|<video src="https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1"/>||
