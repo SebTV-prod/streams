@@ -2,7 +2,7 @@
 
 |LCN|Servizio|Logo|URL #1|URL #2|URL #3|URL #4|URL #5|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|36|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/1.svg"/>(https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8)|[RTL 102.5](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8)|
+|36|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/1.svg"/> https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8|[RTL 102.5](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8)|
 |66|[Radio 105](http://www.105.net/)|<img width="40" src="https://www.105.net/images/logos/3/logo_colored.jpg?v=1722512149810"/>|[105 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd)|[Radio 105](https://icy.unitedradio.it/Radio105.aac)|
 |67|[R101](http://www.r101.it/)|<img width="40" src="https://www.r101.it/images/logos/7/logo_black.jpg?v=1722512155622"/>|[R101 TV](https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd)|[R101](https://icecast.unitedradio.it/r101)|
 |69|[Radio Deejay](http://www.deejay.it/)||||
