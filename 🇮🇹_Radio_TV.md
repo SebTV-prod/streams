@@ -21,7 +21,7 @@
 |351|[70-80.it]||||
 |660|[Ibiza Radio]||||
 |713|[Radio Capital]||||
-|715|[Radio M2O](http://www.m2o.it/)|<img width="40" src="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-32x32.jpg"/>|[M2O TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8)|[Radio M2O](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8)|
+|715|[Radio M2O](http://www.m2o.it/)|<img width="40" src="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-32x32.jpg"/>|[M2O TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8)|[Radio M2O](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8)|[M20 Dance](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8)|[One Two, One Two](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8)|[Deejay Time](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8)|
 |730|[Radio Norba]||||
 |772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)||||
 |786|[Virgin Radio](http://www.virginradioitaly.it/)||||
