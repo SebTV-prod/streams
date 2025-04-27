@@ -40,4 +40,4 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
-|4310|[Giornale Radio TV](https://giornaleradio.fm/)|<img width="40" src="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png"/>|<a href="https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1"></a>||
+|4310|[Giornale Radio TV](https://giornaleradio.fm/)|<img width="40" src="https://giornaleradio.fm/wp-content/uploads/2023/03/Giornale-Radio-logo-2-1.png"/>|[GRTV]( https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8?FLID=1)||
