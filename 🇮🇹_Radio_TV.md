@@ -1,7 +1,7 @@
 <h1>Canali con diffusione in DTT</h1>
 
-|LCN|Servizio|Logo|Video_URL|Audio_URL|
-|:-:|:-:|:-:|:-:|:-:|
+|LCN|Servizio|Logo|URL #1|URL #2|URL #3|URL #4|URL #5|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |36|[RTL 102.5](http://www.rtl.it/)|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/1.svg"/>|[RTL 102.5 TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8)|[RTL 102.5](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8)|
 |66|[Radio 105](http://www.105.net/)||||
 |67|[R101](http://www.r101.it/)||||
