@@ -3,7 +3,7 @@
   
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |	[Air Zen Radio]() | ☑️ | |(https://www.radioscope.fr/lien/rnt/logos/airzen.png) | |
+| 1 |	[Air Zen Radio]() | ☑️ | |[https://www.radioscope.fr/lien/rnt/logos/airzen.png] | |
 | 2 | [Chérie FM]() | ☑️ | | (https://www.radioscope.fr/lien/rnt/logos/cheriefm.png)| |
 | 3 | [Fun Radio]() | ☑️ | [☑️](https://www.dailymotion.com/video/xxtuy6) | (https://www.radioscope.fr/lien/rnt/logos/fun.png) | |
 | 4 |	[Latina]() | ☑️ |  | (https://www.radioscope.fr/lien/rnt/logos/latina.png) | |
