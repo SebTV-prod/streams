@@ -2,7 +2,7 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
-|36|[RTL 102.5](http://www.rtl.it/)||||
+|36|[RTL 102.5](http://www.rtl.it/)||[RTL 102.5 TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8)|[RTL 102.5](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist.m3u8)|
 |66|[Radio 105](http://www.105.net/)||||
 |67|[R101](http://www.r101.it/)||||
 |69|[Radio Deejay](http://www.deejay.it/)||||
