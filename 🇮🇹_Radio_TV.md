@@ -13,6 +13,7 @@
 |202|[Rai Radio 2](http://www.radio2.rai.it/)|||[RaiPlaySound](https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiodue1/hls/playlist_mo.m3u8)|
 |222|[Radio Roma](https://www.radioroma.it/)||||
 |232|[Radio Studio Più]||||
+|233|[RTL 102.5 Caliente]||||
 |246|[Radio 24](http://www.radio24.it/)||||
 |253|[Radio Radio]||||
 |258|[Radiofreccia](http://www.radiofreccia.it/)|<img width="40" src="https://cloud.rtl.it/assets/play.rtl.it/2.1.5/img/broadcaster/TV/17.svg"/>|[Radio Freccia TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8)|[Radio Freccia](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist.m3u8)|
@@ -20,7 +21,7 @@
 |266|[Radio Zeta](http://www.radiozeta.it/)|<img width="40" src="https://cloud.radiozeta.it/assets/www.radiozeta.it/1.1.61/img/layout/radio-zeta-logo.png"/>|[Radio Zeta TV](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8)|[Radio Zeta](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist.m3u8)|
 |351|[70-80.it]||||
 |660|[Ibiza Radio]||||
-|713|[Radio Capital]||||
+|713|[Radio Capital]|<img width="40" src="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/330px-Radio_Capital_logo_%282020%29.svg.png"|[Capital Tivù](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8)|[Radio Capital](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8)|
 |715|[Radio M2O](http://www.m2o.it/)|<img width="40" src="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-32x32.jpg"/>|[M2O TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8)|[Radio M2O](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8)|[M20 Dance](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8)|[One Two, One Two](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/live.m3u8)|[Deejay Time](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/live.m3u8)|
 |730|[Radio Norba]||||
 |772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)||||
