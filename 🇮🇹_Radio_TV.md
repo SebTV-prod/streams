@@ -45,13 +45,13 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
-|636|[Radio 51]|<img width="40" src="https://www.51news.it/images/loghi/logo_head_p.png"/>|[Radio 51 TV](https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1115635457.m3u8)|||
+|636|[Radio 51](https://www.51news.it/)|<img width="40" src="https://www.51news.it/images/loghi/logo_head_p.png"/>|[Radio 51 TV](https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1115635457.m3u8)|||
 
 <h2>Sicilia</h2>
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
-|872|[FM Radio]|<img width="40" src="https://www.radiofmitalia.it/images/fmitalia-liveradio-logo.png"/>|[FMItaliaTV](https://stream6.xdevel.com/video0s975817-1186/stream/chunks.m3u8?nimblesessionid=329326440)|[FMRadio](https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio)|
+|872|[FM Radio](https://www.radiofmitalia.it/)|<img width="40" src="https://www.radiofmitalia.it/images/fmitalia-liveradio-logo.png"/>|[FMItaliaTV](https://stream6.xdevel.com/video0s975817-1186/stream/chunks.m3u8?nimblesessionid=329326440)|[FMRadio](https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio)|
 
 <h1>DVB-S</h1>
 
