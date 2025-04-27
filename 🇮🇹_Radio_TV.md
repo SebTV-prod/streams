@@ -32,7 +32,7 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
-|660|[Ibiza Radio](https://radioibiza.it/)|<img width="40" src="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png.webp"/>|[Radio Ibiza TV](https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8?FLID=1)||
+|660|[Radio Ibiza](https://radioibiza.it/)|<img width="40" src="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png.webp"/>|[Radio Ibiza TV](https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8?FLID=1)||
 
 <h2>Lazio</h2>
 
