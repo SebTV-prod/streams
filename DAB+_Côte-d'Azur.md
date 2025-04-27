@@ -21,7 +21,7 @@
   
 | LCN | Channel | Audio_URL | Video_URL | Logo | Observations |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 |	[BFM Business](https://www.bfmtv.com/economie/en-direct/) | ☑️ | [☑️]([ ](https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8)) | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/bfmbusiness.png"/> | |
+| 1 |	[BFM Business](https://www.bfmtv.com/economie/en-direct/) | ☑️ | [☑️](https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8) | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/bfmbusiness.png"/> | |
 | 2 | [BFM Radio](https://www.bfmtv.com/en-direct/bfm-radio/) | [☑️](https://hls-bfmradio.nextradiotv.com/ssai/master.m3u8) | [☑️](https://www.bfmtv.com/en-direct/) | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/bfmradio.png"/> | |
 | 3 | [Europe 1]() | ☑️ | [☑️](https://www.dailymotion.com/video/xqjkfz) | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/europe1.png"/> | |
 | 4 |	[Europe 2]() | ☑️ | | <img height="20" src="https://www.radioscope.fr/lien/rnt/logos/europe2.png"/> | |
