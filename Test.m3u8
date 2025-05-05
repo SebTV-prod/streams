@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Play 7
+#EXTINF:-1,
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2f111506c444dacb91f3aeb56c8e65f:4f9ec699d9a5e3e6aefd205cf9ce2e55
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueplay7/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
