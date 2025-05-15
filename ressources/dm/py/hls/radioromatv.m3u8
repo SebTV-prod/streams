@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(zFd_0QDxEKzT7mg6Gqfo8YfGv1FvCbRFgY8Mq7wor8dHZg8RpvAqM-l5QQziMcZ8uAPilSGCg5o6BncjGot80WEoPkQrND7Kc3Xt8e_wchSd-s3CFUaTdAMpFHmLNeaj)/cloud/3/x96kfby/s/live-480@60.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(07Fd9tvl74wJBj6rkF6bDcDyUGr1I8AzjparMfabzh7_nSAKCrCsRUbk1qx76G76YCcHiITjEVs1UIDNWU1azvY_S-4k8fJhUDMcyttwNups7pivAVOqNV7kgk8Q7bN4)/cloud/3/x96kfby/s/live-480@60.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(zFd_0QDxEKzT7mg6Gqfo8YfGv1FvCbRFgY8Mq7wor8dHZg8RpvAqM-l5QQziMcZ8uAPilSGCg5o6BncjGot80WEoPkQrND7Kc3Xt8e_wchSd-s3CFUaTdAMpFHmLNeaj)/cloud/3/x96kfby/s/live-240.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(07Fd9tvl74wJBj6rkF6bDcDyUGr1I8AzjparMfabzh7_nSAKCrCsRUbk1qx76G76YCcHiITjEVs1UIDNWU1azvY_S-4k8fJhUDMcyttwNups7pivAVOqNV7kgk8Q7bN4)/cloud/3/x96kfby/s/live-240.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(zFd_0QDxEKzT7mg6Gqfo8YfGv1FvCbRFgY8Mq7wor8dHZg8RpvAqM-l5QQziMcZ8uAPilSGCg5o6BncjGot80WEoPkQrND7Kc3Xt8e_wchSd-s3CFUaTdAMpFHmLNeaj)/cloud/3/x96kfby/s/live-380.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(07Fd9tvl74wJBj6rkF6bDcDyUGr1I8AzjparMfabzh7_nSAKCrCsRUbk1qx76G76YCcHiITjEVs1UIDNWU1azvY_S-4k8fJhUDMcyttwNups7pivAVOqNV7kgk8Q7bN4)/cloud/3/x96kfby/s/live-380.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=50.000000,BANDWIDTH=2691072,CODECS="avc1.640020,mp4a.40.2",NAME="720@60"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(zFd_0QDxEKzT7mg6Gqfo8YfGv1FvCbRFgY8Mq7wor8dHZg8RpvAqM-l5QQziMcZ8uAPilSGCg5o6BncjGot80WEoPkQrND7Kc3Xt8e_wchSd-s3CFUaTdAMpFHmLNeaj)/cloud/3/x96kfby/s/live-720@60.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(07Fd9tvl74wJBj6rkF6bDcDyUGr1I8AzjparMfabzh7_nSAKCrCsRUbk1qx76G76YCcHiITjEVs1UIDNWU1azvY_S-4k8fJhUDMcyttwNups7pivAVOqNV7kgk8Q7bN4)/cloud/3/x96kfby/s/live-720@60.m3u8#cell=lcf2-eu-north-1a
