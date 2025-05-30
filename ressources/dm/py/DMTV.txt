@@ -18,6 +18,12 @@ https://www.dailymotion.com/video/x8t0282
 https://www.dailymotion.com/video/x5gv6be
 #canaleeuropatv
 https://www.dailymotion.com/video/x96qq0g
+#cgtneurope
+https://www.dailymotion.com/video/x8p5u0u
+#classcnbc
+https://www.dailymotion.com/video/x91c8ww
+#classtvmoda
+https://www.dailymotion.com/video/x98rt88
 #cnews
 https://www.dailymotion.com/video/x3b68jn
 #crtvwebradio
@@ -32,8 +38,6 @@ https://www.dailymotion.com/video/x8azdkm
 https://www.dailymotion.com/video/x8azdk1
 #europe1
 https://www.dailymotion.com/video/xqjkfz
-#francebleuelsass
-https://www.dailymotion.com/video/x72b0ey
 #franceinforadio
 https://www.dailymotion.com/video/x26eox4
 #franceinfotv
@@ -44,8 +48,12 @@ https://www.dailymotion.com/video/x17qw0a
 https://www.dailymotion.com/video/x8fy3fv
 #funradiofr
 https://www.dailymotion.com/video/xxtuy6
+#icielsass
+https://www.dailymotion.com/video/x72b0ey
 #lcp
 https://www.dailymotion.com/video/xgepjr
+#lefigarotv
+https://www.dailymotion.com/video/x9fm69u
 #lemedia
 https://www.dailymotion.com/video/x8dtuir
 #lephoceen
