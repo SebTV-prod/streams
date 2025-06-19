@@ -78,6 +78,8 @@ https://www.dailymotion.com/video/xkxbzc
 https://www.dailymotion.com/video/x8n8jzl
 #radiokaraoke
 https://www.dailymotion.com/video/x8yse8i
+#radiokaraoke-2
+https://www.dailymotion.com/video/x93wbh0
 #radioromanews
 https://www.dailymotion.com/video/x96kf9k
 #radioromatv
@@ -96,6 +98,8 @@ https://www.dailymotion.com/video/xl1km0
 https://www.dailymotion.com/video/x2tzzpj
 #rtn
 https://www.dailymotion.com/video/x7wamzq
+#rts1sn
+https://www.dailymotion.com/video/x9kctc2
 #sardegna1
 https://www.dailymotion.com/video/x893du6
 #sportenfrance
