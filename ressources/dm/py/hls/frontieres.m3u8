@@ -1,1 +1,7 @@
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=30.000000,BANDWIDTH=1359872,CODECS="avc1.42001f,mp4a.40.2",NAME="480"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(E6uVIP4lewrceAO4soGwxA8kRSPs3oospaBanHyvCrpGZjV-4d38w5b3D7RA9uaPQ9txuHozc7x5mIGWD3wDydTjbNb-Cix2Z-AnGOUAhLPZ87sdEcNY6R2vdqIR1gDw)/cloud/3/x9luh66/d/live-480.m3u8#cell=lcf2-eu-north-1a
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(E6uVIP4lewrceAO4soGwxA8kRSPs3oospaBanHyvCrpGZjV-4d38w5b3D7RA9uaPQ9txuHozc7x5mIGWD3wDydTjbNb-Cix2Z-AnGOUAhLPZ87sdEcNY6R2vdqIR1gDw)/cloud/3/x9luh66/d/live-240.m3u8#cell=lcf2-eu-north-1a
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=30.000000,BANDWIDTH=2179072,CODECS="avc1.42001f,mp4a.40.2",NAME="720"
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(E6uVIP4lewrceAO4soGwxA8kRSPs3oospaBanHyvCrpGZjV-4d38w5b3D7RA9uaPQ9txuHozc7x5mIGWD3wDydTjbNb-Cix2Z-AnGOUAhLPZ87sdEcNY6R2vdqIR1gDw)/cloud/3/x9luh66/d/live-720.m3u8#cell=lcf2-eu-north-1a
