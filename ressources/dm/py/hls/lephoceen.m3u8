@@ -1,1 +1,5 @@
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/barkers/info.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
+https://live.eu-north-1a.cf.dmcdn.net/sec2(5nu25Jb10yacQBKgFoCJlEFHeQTEGV1mNMMbj1ncz2w5s_iEBD-zfWO7w8_MfkQ-_uj8qz_xtbXOK0oTnQwOa98A2SJY5rzrbcnQIv0GyI2LFxkdnGhAyBaqpRaJWjXx)/dm/3/x2f1rey/d/live-380.m3u8#cell=lcf-eu-north-1a
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live.eu-north-1a.cf.dmcdn.net/sec2(5nu25Jb10yacQBKgFoCJlEFHeQTEGV1mNMMbj1ncz2w5s_iEBD-zfWO7w8_MfkQ-_uj8qz_xtbXOK0oTnQwOa98A2SJY5rzrbcnQIv0GyI2LFxkdnGhAyBaqpRaJWjXx)/dm/3/x2f1rey/d/live-240.m3u8#cell=lcf-eu-north-1a
