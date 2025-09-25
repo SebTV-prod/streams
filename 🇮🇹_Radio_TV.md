@@ -8,7 +8,6 @@
 |69|[Radio Deejay](http://www.deejay.it/)|<img width="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/fc564879-3a5c-4202-8534-2ea1b3a23c6a/1285998601/radio-deejay-logo"/>|[Deejay TV](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8)|[Radio Deejay](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8)|
 |70|[Radio Italia](http://www.radioitalia.it/)|<img width="40" src="https://www.radioitalia.it/images/player_radioitalia.jpg"/>|[Radio Italia TV](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream01/streamPlaylist.m3u8)|[Radio Italia](https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8)|
 |73|[Radio Bruno](https://www.radiobruno.it/)|<img width="40" src="https://www.radiobruno.it/wp-content/uploads/2017/10/logo-296-180-black.png"/>|[Radio Bruno TV](https://stream4.xdevel.com/video0s975758-473/stream/chunks.m3u8)|[ ]()|
-|76|[Radio Kiss Kiss Napoli]()|<img width="40" src="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png.webp"/>|[Kiss Kiss Napoli TV](https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss Napoli](https://kisskiss.fluidstream.eu/KKNapoli.aac)|
 |158|[Radio Kiss Kiss](http://www.kisskiss.it/)|<img width="40" src="https://kisskiss.it/wp-content/uploads/2021/02/logo_kisskiss.png.webp"/>|[Kiss Kiss TV](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss](https://kisskiss.fluidstream.eu/KissKiss.aac)|[Kiss Kiss Italia TV](https://kk.fluid.stream/KKTV01/livestream/playlist.m3u8?FLID=1)|[Radio Kiss Kiss Italia](https://kisskiss.fluidstream.eu/KKItalia.aac)|
 |202|[Rai Radio 2](http://www.radio2.rai.it/)|||[Rai Radio 2](https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiodue1/hls/playlist_mo.m3u8)|
 |232|[Radio Studio Piu](https://www.studiopiu.net)||[Studiopiu TV](https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8)|[Radio Studiopiu](https://ice.studiopiu.net/rete.aac)|[60 70 80.tv](https://5a1178b42cc03.streamlock.net/607080stream/607080stream/playlist.m3u8)|[Radio 60 70 80](https://ice.studiopiu.net/607080.aac)|
@@ -25,7 +24,6 @@
 |772|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)|<img width="40" src="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg?v=1722512145918"/>|[Radio Monte-Carlo TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)|[Radio Monte-Carlo](https://icy.unitedradio.it/RMC.aac)|
 |786|[Virgin Radio](http://www.virginradioitaly.it/)|<img width="40" src=" "/>|[Virgin Radio TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd)||
 |789|[Radio Maria]()|<img width="40" src=""/>|[Radio Maria](https://cdn.jwplayer.com/live/events/NxD9E9d7.m3u8)|
-|799|[RTR 99](https://www.rtr99.it/)|<img width="40" src="https://www.rtr99.it/wp-content/uploads/elementor/thumbs/trasparente-r3izclaguxen3uqryqnp592kiu5p28qxf7rnbczf9c.png"/>|[RTR 99 TV](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w1247526100.m3u8)|[RTR 99 - Ti Ricordi](https://rtr99.fluidstream.eu/rtr99.mp3)|
 |899|[Radio Serie A by RDS]()|<img width="40" src="https://img.legaseriea.it/vimages/64dc9bd1/Serie-A-Radio-TV_Logo.png?webp&q=100&size=1996.5x-"/>|[Radio TV Serie A by RDS](https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8)||
 
 <h1>Canali Radiovisione Regionali</h1>
@@ -33,6 +31,7 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
+|76|[Radio Kiss Kiss Napoli]()|<img width="40" src="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png.webp"/>|[Kiss Kiss Napoli TV](https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist_slita.m3u8?FLID=1)|[Radio Kiss Kiss Napoli](https://kisskiss.fluidstream.eu/KKNapoli.aac)|
 |660|[Radio Ibiza](https://radioibiza.it/)|<img width="40" src="https://radioibiza.it/wp-content/uploads/2021/09/cropped-logo_header.png.webp"/>|[Radio Ibiza TV](https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8?FLID=1)||
 
 <h2>Lazio</h2>
@@ -42,11 +41,27 @@
 |14|[Radio Roma](https://www.radioroma.it/)|<img width="40" src="https://www.radioroma.tv/wp-content/uploads/2024/05/Radio-Roma-2023-sfondo-nero-01.png"/>|[Radio Roma News TV](www.dailymotion.com/video/x96kf9k)|
 |15|[Radio Roma](https://www.radioroma.it/)|<img width="40" src="https://www.radioroma.tv/wp-content/uploads/2024/05/Radio-Roma-2023-sfondo-nero-01.png"/>|[Radio Roma TV](www.dailymotion.com/video/x96kfby)|
 
+<h2>Liguria</h2>
+
+|LCN|Servizio|Logo|Video_URL|Audio_URL|
+|:-:|:-:|:-:|:-:|:-:|
+|12|[Radiotelepace 1]( )|<img width="40" src=" "/>|[Teleradiopace 1]( )|
+|77|[Radio 104]( )|<img width="40" src=" "/>|[Radio 104 TV]( )|
+|78|[Radiotelepace 3 News]( )|<img width="40" src=" "/>|[Teleradiopace 3 News]( )|
+|85|[Radiotelepace 2]( )|<img width="40" src=" "/>|[Teleradiopace 2]( )|
+|114|[Radiotelepace 4]( )|<img width="40" src=" "/>|[Teleradiopace 4]( )|
+
 <h2>Lombardia</h2>
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
 |636|[Radio 51](https://www.51news.it/)|<img width="40" src="https://www.51news.it/images/loghi/logo_head_p.png"/>|[Radio 51 TV](https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1115635457.m3u8)|||
+|799|[RTR 99](https://www.rtr99.it/)|<img width="40" src="https://www.rtr99.it/wp-content/uploads/elementor/thumbs/trasparente-r3izclaguxen3uqryqnp592kiu5p28qxf7rnbczf9c.png"/>|[RTR 99 TV](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w1247526100.m3u8)|[RTR 99 - Ti Ricordi](https://rtr99.fluidstream.eu/rtr99.mp3)|
+
+<h2>Piemonte</h2>
+|15|[GRP]( )|<img width="40" src=" "/>|[GRP - Vera TV]( )|
+|87|[RBE TV]( )|<img width="40" src=" "/>|[RBE TV]( )|
+|114|[Radiotelepace 4]( )|<img width="40" src=" "/>|[Teleradiopace 4]( )|
 
 <h2>Sicilia</h2>
 
