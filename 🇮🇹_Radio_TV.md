@@ -76,6 +76,9 @@
 
 |LCN|Servizio|Logo|Video_URL|Audio_URL|
 |:-:|:-:|:-:|:-:|:-:|
+|63|[Radio Italia Trend]( )|<img width="40" src=" "/>|[Radio Italia Trend TV]( )|
+|67|[Radio Monte-Carlo](http://www.radiomontecarlo.net/)|<img width="40" src="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg?v=1722512145918"/>|[Radio Monte-Carlo TV](https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd)|[Radio Monte-Carlo](https://icy.unitedradio.it/RMC.aac)|
+|68|[Virgin Radio](http://www.virginradioitaly.it/)|<img width="40" src=" "/>|[Virgin Radio TV](https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd)||
 |627|[Radio Italia Anni 60](https://www.radioitaliaanni60.it/#)|<img width="40" src="https://www.radioitaliaannisessanta.it/#](https://www.tvdream.net/img/radio-italia-anni-60-tv.png"/>|[Radio Italia Anni 60 TV]([ ](https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/chunklist_w714538055.m3u8))||
 |631|[Radio Number 1](http://www.radionumberone.it/)|<img width="40" src="https://radionumberone.it/wp-content/uploads/2021/04/2021_RN1-Logo_Tavola-disegno-1.svg"/>|[RN1TV](https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8)|[Radio Number One]()|
 
