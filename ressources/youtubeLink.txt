@@ -1,0 +1,50 @@
+## FORMAT: <channel name> || <channel id> || <category>
+## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
+## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
+## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
+
+Telegrenoble || Telegrenoble.yt || DVB-T2
+https://www.youtube.com/watch?v=_y9LMTzS9rE
+
+France Inter || Franceinter.yt || DAB+
+https://www.youtube.com/watch?v=ACPnVZDNjJs
+
+France Info || Franceinfo.yt || DVB-T2
+https://www.youtube.com/watch?v=Z-Nwo-ypKtM
+
+France 24 FR || France24fr.yt || DVB-T2
+https://www.youtube.com/watch?v=l8PMl7tUDIE
+
+RFI || RFI.yt || DAB+
+https://www.youtube.com/watch?v=FbKhiAIaPC8
+
+Tech & Co || Techandco.yt || DVB-S2
+https://www.youtube.com/watch?v=ZbARVTcSZVU
+
+Martinique La 1ère || Martiniquela1ere.yt || DAB+
+https://www.youtube.com/watch?v=mTc5wmqm7NI
+
+One World Radio || Oneworldradio.yt || DAB+
+https://www.youtube.com/watch?v=UX38PTCabzM
+
+Euronews FR || Euronewsfr || DVB-T2
+https://www.youtube.com/watch?v=NiRIbKwAejk
+
+Newsmax 2 || Newsmax2.yt || DVB-T2
+https://www.youtube.com/watch?v=Lly8TzZXImQ
+
+7 Info || 7info.yt || DVB-T2
+https://www.youtube.com/watch?v=RAJ2VfW6cTQ
+
+Gabon 24 || Gabon24.yt || DVB-T2
+https://www.youtube.com/watch?v=KpLW5q0sCZA
+
+Africanews FR || AfricanewsFR.yt || DVB-T2
+https://www.youtube.com/watch?v=b6R9-7KZ8YM
+
+Nature Time FR || Naturetimefr.yt || Divers
+https://www.youtube.com/watch?v=_bYNuBx7ktk
+
+Lourdes+ || Lourdesplus.yt || Divers
+https://www.youtube.com/watch?v=ESNa1vdHcYY
+
