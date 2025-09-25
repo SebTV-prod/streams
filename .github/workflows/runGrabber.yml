@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.email "dp247@hll.localhost"
           git config --global user.name "dp247"
-          chmod +x exec_grabber.sh && ressources/exec_grabber.sh
+          chmod +x exec_grabber.sh && ./exec_grabber.sh
           git add -A
           git commit -m "./youtubeLink.txt is updated."
           git push
