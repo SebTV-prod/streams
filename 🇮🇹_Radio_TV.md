@@ -59,6 +59,7 @@
 |799|[RTR 99](https://www.rtr99.it/)|<img width="40" src="https://www.rtr99.it/wp-content/uploads/elementor/thumbs/trasparente-r3izclaguxen3uqryqnp592kiu5p28qxf7rnbczf9c.png"/>|[RTR 99 TV](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w1247526100.m3u8)|[RTR 99 - Ti Ricordi](https://rtr99.fluidstream.eu/rtr99.mp3)|
 
 <h2>Piemonte</h2>
+
 |LCN|Servizio|Logo|URL #1|URL #2|URL #3|URL #4|URL #5|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |15|[GRP]( )|<img width="40" src=" "/>|[GRP - Vera TV]( )|
