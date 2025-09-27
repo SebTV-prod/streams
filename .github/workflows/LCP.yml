@@ -1,4 +1,4 @@
-name: LCP action
+name: Azur FM Belgique action
 
 on:
   schedule:
@@ -16,10 +16,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "LCP bot"
+          git config --global user.name "Azur FM Belgique bot"
       
       - name: updating eqpetv
-        run: python3 ${GITHUB_WORKSPACE}/ressources/dm/py/dmfr/LCP.py > ${GITHUB_WORKSPACE}/ressources/dm/py/hls/LCP.m3u8
+        run: python3 twitch.py azurfmbelgique > Azurfmbelgique.m3u8
         
       - name: git add
         run: |
@@ -28,5 +28,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "LCP updated"
+          git commit -m "Azur FM Belgique updated"
           git push
