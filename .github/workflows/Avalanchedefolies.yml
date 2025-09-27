@@ -1,4 +1,4 @@
-name: Telegrenoble
+name: Avalanche De Folies Radio
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py telegrenoble > ../../ressources/twitch//hls/Telegrenoble.m3u8
+          python3 twitch.py avalanchedefolies > ../../ressources/twitch//hls/Avalanchedefolies.m3u8
         
       - name: adding everything
         run: |
@@ -35,5 +35,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "Telegrenoble updated"
+          git commit -m "Avalanche De Folies updated"
           git push
