@@ -2,7 +2,7 @@ name: Azur FM Belgique action
 
 on:
   schedule:
-    - cron: '15 */06 * * *'
+    - cron: '0 */4 * * *'
   
   workflow_dispatch:
 
