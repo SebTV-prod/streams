@@ -1,4 +1,4 @@
-name: LMTV Sarthe
+name: Top Radio 80
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py lmtv_sarthe > ../../ressources/twitch/hls/LMTVSarthe.m3u8
+          python3 twitch.py top80radio > ../../ressources/twitch/hls/Topradio80.m3u8
         
       - name: adding everything
         run: |
@@ -35,5 +35,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "LMTV Sarthe updated"
+          git commit -m "Top Radio 80 updated"
           git push
