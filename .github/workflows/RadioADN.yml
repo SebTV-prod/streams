@@ -1,4 +1,4 @@
-name: RediffTV
+name: Radio ADN
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py redifftv > ../../ressources/twitch/hls/RediffTV.m3u8
+          python3 twitch.py adn67240 > ../../ressources/twitch/hls/RadioADN.m3u8
         
       - name: adding everything
         run: |
@@ -35,5 +35,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "RediffTV updated"
+          git commit -m "Radio ADN updated"
           git push
