@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "Azur FM Belgique bot"
       
       - name: updating eqpetv
-        run: python3 twitch.py azurfmbelgique > Azurfmbelgique.m3u8
+        run: python3 twitch.py azurfmbelgique > ../../ressources/twitch/hls/Azurfmbelgique.m3u8
         
       - name: git add
         run: |
