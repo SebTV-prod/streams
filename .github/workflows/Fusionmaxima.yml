@@ -1,4 +1,4 @@
-name: Radio Buzz
+name: Fuzion Maxima
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py radiobuzzofficiel > ../../ressources/twitch/hls/Radiobuzz.m3u8
+          python3 twitch.py fuzionmaxima > ../../ressources/twitch/hls/Fuzionmaxima.m3u8
         
       - name: adding everything
         run: |
@@ -34,5 +34,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "Radio Buzz updated"
+          git commit -m "Fuzion Maxima updated"
           git push
