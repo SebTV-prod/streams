@@ -1,4 +1,4 @@
-name: Orobik Channel 98
+name: Audinautes Radio
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
-          python3 twitch.py orobikchanneltv > ../../ressources/twitch/hls/OrobikChannel98.m3u8
+          python3 twitch.py audinautesradio > ../../ressources/twitch/hls/Audinautesradio.m3u8
         
       - name: adding everything
         run: |
@@ -35,5 +35,5 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "Orobik Channel 98 updated"
+          git commit -m "Audinautesradio updated"
           git push
