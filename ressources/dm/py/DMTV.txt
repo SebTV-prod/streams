@@ -68,12 +68,16 @@ https://www.dailymotion.com/video/x85e5l8
 https://www.dailymotion.com/video/x2kr3hs
 #mlemedia
 https://www.dailymotion.com/video/x8j47xa
+#moselletv
+
 #mouv
 https://www.dailymotion.com/video/x8g9lfe
 #publicsenat
 https://www.dailymotion.com/video/xkxbzc
 #radioesperance
 https://www.dailymotion.com/video/x8n8jzl
+#radiofrontieres
+https://www.dailymotion.com/video/x9plsbs
 #radiokaraoke
 https://www.dailymotion.com/video/x8yse8i
 #radiokaraoke-2
@@ -100,6 +104,8 @@ https://www.dailymotion.com/video/x7wamzq
 https://www.dailymotion.com/video/x9kctc2
 #sardegna1
 https://www.dailymotion.com/video/x893du6
+#sosdocteurtv
+https://www.dailymotion.com/video/x9o4ze2
 #sportenfrance
 https://www.dailymotion.com/video/x8sayn8
 #sudradio
