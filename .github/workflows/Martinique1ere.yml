@@ -1,0 +1,37 @@
+name: Convert YouTube Video to HLS
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: 'https://www.youtube.com/watch?v=mTc5wmqm7NI'
+        required: true
+        default: 'https://www.youtube.com/watch?v=EXAMPLE'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install yt-dlp and FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install yt-dlp
+
+      - name: Convert YouTube video to HLS
+        run: |
+          mkdir -p hls_output
+          YOUTUBE_URL="${{ github.event.inputs.youtube_url || 'https://www.youtube.com/watch?v=EXAMPLE' }}"
+          yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" -o "hls_output/video.mp4" "$YOUTUBE_URL"
+          ffmpeg -i hls_output/video.mp4 -profile:v baseline -level 3.0 -start_number 0 -hls_time 10 -hls_list_size 0 -f hls hls_output/playlist.m3u8
+
+      - name: Upload HLS files as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hls-output
+          path: hls_output/
