@@ -31,4 +31,9 @@ jobs:
       - name: adding everything
         run: |
           git add -A
-          ls -la 
+          ls -la
+             
+      - name: commit & push
+        run: |
+          git commit -m "MaurienneTV updated"
+          git push
