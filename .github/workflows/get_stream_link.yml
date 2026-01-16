@@ -1,0 +1,96 @@
+name: Récupérer le lien de streaming belge avec Mozilla VPN
+
+on:
+  schedule:
+    # Exécute tous les jours à 8h (heure de Paris)
+    - cron: '0 8 * * *'
+  workflow_dispatch:  # Permet de lancer manuellement
+
+jobs:
+  get-stream-link:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer les dépendances
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip wireguard resolvconf
+          pip3 install selenium webdriver-manager
+
+      - name: Installer Chrome pour Selenium
+        run: |
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install -y ./google-chrome-stable_current_amd64.deb
+
+      - name: Configurer Mozilla VPN (WireGuard)
+        env:
+          MOZILLA_VPN_CONFIG: ${{ secrets.MOZILLA_VPN_CONFIG }}  # Contenu du fichier .conf de Mozilla VPN
+        run: |
+          # Sauvegarder la configuration WireGuard
+          echo "$MOZILLA_VPN_CONFIG" > wg0.conf
+          # Démarrer WireGuard (remplace 'wg0' par le nom de ton interface si différent)
+          sudo wg-quick up wg0
+          # Vérifier la connexion
+          sleep 10
+          curl ifconfig.me  # Affiche l'IP publique pour vérifier que le VPN est actif
+
+      - name: Exécuter le script Python pour récupérer le lien
+        run: |
+          python3 - <<EOF
+          from selenium import webdriver
+          from selenium.webdriver.chrome.service import Service
+          from webdriver_manager.chrome import ChromeDriverManager
+          from selenium.webdriver.common.by import By
+          import time
+          import os
+          import re
+
+          # Configurer Selenium avec Chrome
+          options = webdriver.ChromeOptions()
+          options.add_argument('--headless')
+          options.add_argument('--no-sandbox')
+          options.add_argument('--disable-dev-shm-usage')
+
+          driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
+          try:
+              # Remplacer par l'URL du site belge
+              driver.get("https://exemple-site-belge.be/stream")
+
+              # Attendre que la page charge
+              time.sleep(15)
+
+              # Récupérer le lien du flux (exemple générique)
+              page_source = driver.page_source
+              match = re.search(r'https://mdw-cji\.akamaized\.net/abxplore/dash/manifest\.mpd\?hdnts=[^"]+', page_source)
+
+              if not match:
+                  raise Exception("Lien de flux introuvable dans la page.")
+
+              flux_link = match.group(0)
+              print(f"Lien du flux récupéré : {flux_link}")
+
+              # Sauvegarder dans un fichier
+              with open("stream_link.txt", "w") as f:
+                  f.write(flux_link)
+
+              # Sauvegarder dans une variable d'environnement GitHub
+              with open(os.environ['GITHUB_ENV'], 'a') as f:
+                  f.write(f"STREAM_LINK={flux_link}\n")
+
+          finally:
+              driver.quit()
+          EOF
+
+      - name: Afficher le lien récupéré
+        run: |
+          echo "Lien de streaming valide : ${{ env.STREAM_LINK }}"
+
+      - name: Sauvegarder le lien dans un artefact
+        uses: actions/upload-artifact@v3
+        with:
+          name: stream-link
+          path: stream_link.txt
