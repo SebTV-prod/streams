@@ -54,7 +54,7 @@ jobs:
 
           cd ./core/platforms/
 
-          python3 twitch.py stream_europe2 > ../../ressources/twitch/hls/Europe2.m3u8
+          python3 twitch.py stream_europe2 > ../../ressources/twitch/hls/Europe2.m3u8 
 
         
 
