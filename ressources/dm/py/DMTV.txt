@@ -20,6 +20,8 @@ https://www.dailymotion.com/video/x98rt88
 https://www.dailymotion.com/video/x3b68jn
 #cnewsprime
 https://www.dailymotion.com/video/x9u4hka
+#cnewsprime_backup
+https://www.dailymotion.com/video/x9u6iqo
 #crtvwebradio
 https://www.dailymotion.com/video/x8qx8nm
 #cstar
@@ -30,6 +32,12 @@ https://www.dailymotion.com/video/x8azdl4
 https://www.dailymotion.com/video/x8azdkm
 #emcieurope
 https://www.dailymotion.com/video/x8azdk1
+#europe1
+https://www.dailymotion.com/video/xqjkfz
+#europe1_backup
+https://www.dailymotion.com/video/x91kj9u
+#europe1tv
+https://www.dailymotion.com/video/x9ukd6u
 #franceinforadio
 https://www.dailymotion.com/video/x26eox4
 #franceinfotv
@@ -66,6 +74,8 @@ https://www.dailymotion.com/video/x9lgbik
 https://www.dailymotion.com/video/x8g9lfe
 #publicsenat
 https://www.dailymotion.com/video/xkxbzc
+#radiobianconera
+https://www.dailymotion.com/video/x9xg3mq
 #radiofrontieres
 https://www.dailymotion.com/video/x9plsbs
 #radiokaraoke
@@ -86,6 +96,8 @@ https://www.dailymotion.com/video/x7wi5y1
 https://www.dailymotion.com/video/x7xygyv
 #rtl2
 https://www.dailymotion.com/video/x2tzzpj
+#rtl2_backup
+https://www.dailymotion.com/video/x7rkbk4
 #rtn
 https://www.dailymotion.com/video/x7wamzq
 #rts1sn
@@ -106,5 +118,7 @@ https://www.dailymotion.com/video/x5so98l
 https://www.dailymotion.com/video/x8tl030
 #tfm
 https://www.dailymotion.com/video/x7wcr45
+#tmwradio
+https://www.dailymotion.com/video/x9xg1l4
 #uptv
 https://www.dailymotion.com/video/x8u05e4
